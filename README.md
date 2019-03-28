@@ -6,7 +6,7 @@ Simple styling input="range" using:
 * postcss-input-range
 * gulp
 
-### Checked under the following browsers
+## Checked under the following browsers
 
 * Desktop:
   * Chrome 73.0.3683.86
