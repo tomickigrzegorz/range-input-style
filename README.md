@@ -15,7 +15,7 @@ Simple styling input="range" using:
   * Microsoft Edge 44.17763.1.0
   * Vivaldi 2.3.1440.60
 
-* Mobiel:
+* Mobile:
   * Chrome 73.0.3683.90
   * Firefox 65.0.1
   * Opera 51.1.2461.137501
